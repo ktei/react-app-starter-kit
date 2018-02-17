@@ -1,0 +1,15 @@
+{
+  "extends": "airbnb",
+  "rules": {
+    "react/prop-types": 0,
+    "linebreak-style": "off",
+    "max-len": "warn",
+    "react/jsx-no-bind": 0,
+    "react/prefer-stateless-function": "off",
+    "jsx-a11y/no-static-element-interactions": "off",
+    "jsx-a11y/label-has-for": "off"
+  },
+  "env": {
+    "browser": true
+  }
+}
